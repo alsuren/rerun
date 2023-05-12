@@ -162,6 +162,13 @@
 <a href="#162" id="162">162</a>
 <a href="#163" id="163">163</a>
 <a href="#164" id="164">164</a>
+<a href="#165" id="165">165</a>
+<a href="#166" id="166">166</a>
+<a href="#167" id="167">167</a>
+<a href="#168" id="168">168</a>
+<a href="#169" id="169">169</a>
+<a href="#170" id="170">170</a>
+<a href="#171" id="171">171</a>
 </pre><pre class="rust"><code><span class="kw">use </span>std::sync::Arc;
 
 <span class="kw">use </span>re_log_types::LogMsg;
@@ -217,7 +224,7 @@
     /// var rrd = new Uint8Array(...); // Get an RRD from somewhere
     /// window.postMessage(rrd, &quot;*&quot;)
     /// ```
-    </span><span class="kw">pub fn </span>stream_rrd_from_event_listener(on_msg: Arc&lt;<span class="kw">dyn </span>Fn(LogMsg) + Send&gt;) {
+    </span><span class="kw">pub fn </span>stream_rrd_from_event_listener(<span class="kw-2">mut </span>on_msg: <span class="prelude-ty">Option</span>&lt;Arc&lt;<span class="kw">dyn </span>Fn(LogMsg) + Send&gt;&gt;) {
         <span class="kw">let </span>window = web_sys::window().expect(<span class="string">&quot;no global `window` exists&quot;</span>);
         <span class="kw">let </span>closure =
             Closure::wrap(Box::new(
@@ -226,7 +233,14 @@
                         <span class="kw">let </span>uint8_array = Uint8Array::new(<span class="kw-2">&amp;</span>message_event.data());
                         <span class="kw">let </span>result: Vec&lt;u8&gt; = uint8_array.to_vec();
 
-                        <span class="kw">crate</span>::stream_rrd_from_http::decode_rrd(result, on_msg.clone());
+                        <span class="comment">// On the first incoming message_event, take the on_msg callback
+                        // so that the channel drops dropped when we are done. This is
+                        // necessary to allow the viewer to know that no more data is coming.
+                        // TODO(jleibs): In live-streaming mode we don&#39;t want to do this and
+                        // will instead want to clone the arc.
+                        </span><span class="kw">if let </span><span class="prelude-val">Some</span>(on_msg) = on_msg.take() {
+                            <span class="kw">crate</span>::stream_rrd_from_http::decode_rrd(result, on_msg);
+                        }
                     }
                     <span class="prelude-val">Err</span>(js_val) =&gt; {
                         <span class="macro">re_log::error!</span>(<span class="string">&quot;Incoming event was not a MessageEvent. {:?}&quot;</span>, js_val);
