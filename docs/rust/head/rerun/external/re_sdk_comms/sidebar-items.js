@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DEFAULT_SERVER_PORT","PROTOCOL_VERSION"],"fn":["default_server_addr","serve"],"struct":["Client","ServerOptions"],"type":["Result"]};

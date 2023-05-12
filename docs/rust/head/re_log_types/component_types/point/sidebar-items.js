@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["MutablePoint2DArray","MutablePoint3DArray","Point2D","Point2DArray","Point2DArrayIterator","Point3D","Point3DArray","Point3DArrayIterator"]};

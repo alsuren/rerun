@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIELDS"],"enum":["OrthographicCameraMode","Projection","ViewBuilderError","__Field"],"fn":["f","queued_draw"],"static":["CALLSITE","META","ONCE","__SEEN_MESSAGES"],"struct":["AutoSizeConfig","QueuedDraw","TargetConfiguration","ViewBuilder","ViewTargetSetup","__FieldVisitor","__Visitor"],"type":["DrawFn","SharedViewBuilder"]};

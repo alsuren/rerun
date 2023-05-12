@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIELDS"],"enum":["__Field"],"fn":["item_collection_to_string","item_kind_ui","item_to_string"],"struct":["SelectionHistoryUi","__FieldVisitor","__Visitor"]};

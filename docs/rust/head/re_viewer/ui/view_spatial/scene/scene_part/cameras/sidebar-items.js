@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["determine_view_coordinates"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["CamerasPart"]};

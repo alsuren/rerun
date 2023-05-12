@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIELDS","VARIANTS"],"enum":["TensorDataType","TensorElement","__Field"],"fn":["u16_from_f64"],"struct":["BBox2D","Box3","__FieldVisitor","__Visitor"],"trait":["TensorDataTypeTrait"],"type":["Quaternion"]};

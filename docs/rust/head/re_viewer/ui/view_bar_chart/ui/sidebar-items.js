@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["HELP_TEXT"],"fn":["create_bar_chart","view_bar_chart"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["BarChartState","__Visitor"]};

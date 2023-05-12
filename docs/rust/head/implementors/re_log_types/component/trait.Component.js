@@ -1,0 +1,6 @@
+(function() {var implementors = {
+"api_demo":[["impl <a class=\"trait\" href=\"re_log_types/component/trait.Component.html\" title=\"trait re_log_types::component::Component\">Component</a> for <a class=\"struct\" href=\"api_demo/struct.Corner.html\" title=\"struct api_demo::Corner\">Corner</a>"],["impl <a class=\"trait\" href=\"re_log_types/component/trait.Component.html\" title=\"trait re_log_types::component::Component\">Component</a> for <a class=\"struct\" href=\"api_demo/struct.Training.html\" title=\"struct api_demo::Training\">Training</a>"],["impl <a class=\"trait\" href=\"re_log_types/component/trait.Component.html\" title=\"trait re_log_types::component::Component\">Component</a> for <a class=\"struct\" href=\"api_demo/struct.Confidence.html\" title=\"struct api_demo::Confidence\">Confidence</a>"]],
+"re_log_types":[],
+"re_sdk":[],
+"rerun":[]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

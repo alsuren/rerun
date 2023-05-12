@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["VARIANTS"],"enum":["BatchIndex","Index","__Field"],"struct":["IndexHash","__FieldVisitor","__Visitor"]};

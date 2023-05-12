@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DrawOrderTarget","UiLabelTarget"],"fn":["f"],"mod":["picking","primitives","scene_part"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["EntityDepthOffsets","Image","MeshSource","SceneSpatial","SceneSpatialUiData","UiLabel"],"type":["Keypoints"]};

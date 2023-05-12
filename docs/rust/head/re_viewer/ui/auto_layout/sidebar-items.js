@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["LayoutSplit","SplitDirection"],"fn":["desired_aspect_ratio","f","find_group_split_point","group_by_category","group_by_path_prefix","layout_by_category","layout_by_path_prefix","split_groups","split_spaces_at","suggest_split_direction","tree_from_space_views","tree_from_split"],"struct":["SpaceMakeInfo"]};

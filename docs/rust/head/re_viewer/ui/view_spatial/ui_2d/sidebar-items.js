@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIELDS","HELP_TEXT_2D"],"enum":["ZoomState2D","__Field"],"fn":["egui_rect_to_re_renderer","f","setup_target_config","show_projections_from_3d_space","view_2d"],"static":["CALLSITE","META"],"struct":["View2DState","__FieldVisitor","__Visitor"]};

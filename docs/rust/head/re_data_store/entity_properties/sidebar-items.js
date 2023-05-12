@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIELDS","VARIANTS"],"enum":["ColorMapper","Colormap","__Field"],"fn":["f","query_latest_single"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["EntityProperties","EntityPropertyMap","ExtraQueryHistory","__FieldVisitor","__Visitor"]};

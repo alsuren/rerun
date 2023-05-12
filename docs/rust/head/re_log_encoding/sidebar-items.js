@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["FileSinkError"],"mod":["decoder","encoder","file_sink","stream_rrd_from_http"],"struct":["FileSink"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["f","is_float_filterable","num_texture_components"],"struct":["Texture2DBufferInfo"]};

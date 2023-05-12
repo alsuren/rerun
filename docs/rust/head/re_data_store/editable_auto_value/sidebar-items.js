@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["VARIANTS"],"enum":["EditableAutoValue","__Field"],"struct":["__FieldVisitor","__Visitor"]};

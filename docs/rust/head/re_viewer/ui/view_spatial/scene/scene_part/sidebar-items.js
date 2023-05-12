@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["f","instance_key_for_picking","instance_key_to_picking_id","instance_path_hash_for_picking","process_annotations_and_keypoints","process_colors","process_radii"],"mod":["arrows3d","boxes2d","boxes3d","cameras","images","lines2d","lines3d","meshes","points2d","points3d"],"static":["ONCE","__SEEN_MESSAGES"],"trait":["ScenePart"]};

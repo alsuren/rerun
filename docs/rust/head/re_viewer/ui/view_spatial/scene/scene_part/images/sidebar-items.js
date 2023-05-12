@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["f","handle_image_layering","is_plane_similar","to_textured_rect"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["ImagesPart"]};

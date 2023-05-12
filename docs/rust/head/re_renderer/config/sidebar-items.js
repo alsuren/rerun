@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["HardwareTier"],"fn":["supported_backends"],"struct":["RenderContextConfig"]};

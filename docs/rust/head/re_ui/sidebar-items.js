@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CUSTOM_WINDOW_DECORATIONS","FULLSIZE_CONTENT","NATIVE_WINDOW_BAR"],"enum":["Command"],"fn":["native_window_buttons_ui","toggle_switch"],"mod":["command","command_palette","design_tokens","egui_helpers","icons","static_image_cache","toasts","toggle_switch"],"struct":["CommandPalette","DesignTokens","ReUi","StaticImageCache","TopBarStyle"]};

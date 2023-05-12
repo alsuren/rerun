@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIELDS"],"enum":["__Field"],"struct":["Arrow3D","Arrow3DArray","Arrow3DArrayIterator","MutableArrow3DArray","__FieldVisitor","__Visitor"]};

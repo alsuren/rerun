@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIELDS","VARIANTS"],"enum":["AutoSizeUnit","SpatialNavigationMode","__Field"],"fn":["axis_name","create_labels","f","outline_config","picking","screenshot_context_menu","size_ui"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["ViewSpatialState","__FieldVisitor","__Visitor"]};

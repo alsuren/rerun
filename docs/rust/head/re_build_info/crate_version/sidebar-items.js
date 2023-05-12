@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["IS_ALPHA_BIT","IS_PRERELEASE_BIT","MAX_NUM"],"fn":["parse_u8"],"struct":["CrateVersion"]};

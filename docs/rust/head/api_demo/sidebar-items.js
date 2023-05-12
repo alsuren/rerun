@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Demo"],"fn":["create_class","create_points","demo_2d_layering","demo_3d_points","demo_bbox","demo_extension_components","demo_log_cleared","demo_rects","demo_segmentation","demo_text_logs","demo_transforms_3d","log_cleared","log_coordinate_space","log_info","log_point","main","run","sim_time"],"struct":["Args","Confidence","Corner","Training"]};

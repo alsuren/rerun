@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["add_children","f","query_view_coordinates","visit_descendants_with_reachable_transform_recursively"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["SpaceInfo","SpaceInfoCollection"]};

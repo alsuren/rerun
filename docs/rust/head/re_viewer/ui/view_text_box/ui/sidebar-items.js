@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIELDS"],"enum":["__Field"],"fn":["f","view_text_box"],"struct":["ViewTextBoxState","__FieldVisitor","__Visitor"]};

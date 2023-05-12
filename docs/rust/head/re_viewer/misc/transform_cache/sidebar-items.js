@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["UnreachableTransform"],"fn":["f","transform_at"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["TransformCache"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["auto_layout","blueprint","data_blueprint","memory_panel","selection_history_ui","selection_panel","space_view","space_view_entity_picker","space_view_heuristics","time_panel","view_bar_chart","view_category","view_spatial","view_tensor","view_text","view_text_box","view_time_series","viewport"]};

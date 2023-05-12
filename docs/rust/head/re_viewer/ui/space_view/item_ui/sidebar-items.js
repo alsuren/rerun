@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["space_view_button","space_view_button_to"]};

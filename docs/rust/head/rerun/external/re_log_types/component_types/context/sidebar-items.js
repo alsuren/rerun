@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["AnnotationContext","AnnotationInfo","AnnotationInfoArray","AnnotationInfoArrayIterator","ClassDescription","ClassMapElemArrow","ClassMapElemArrowArray","ClassMapElemArrowArrayIterator","MutableAnnotationInfoArray","MutableClassMapElemArrowArray"]};

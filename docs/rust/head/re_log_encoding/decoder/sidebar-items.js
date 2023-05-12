@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DecodeError"],"fn":["decode_bytes","f","warn_on_version_mismatch"],"static":["CALLSITE","META"],"struct":["Decoder"]};

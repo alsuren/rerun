@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["IS_U128","IS_U16","IS_U32","IS_U64","IS_U8","VARIANTS"],"enum":["ViewCategory","__Field"],"fn":["categorize_entity_path","f"],"struct":["__FieldVisitor","__Visitor"],"type":["ViewCategorySet"]};

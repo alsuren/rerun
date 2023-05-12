@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIELDS"],"enum":["HoverHighlight","HoveredSpace","SelectionHighlight","__Field"],"fn":["either_none_or_same","f"],"struct":["InteractionHighlight","SelectionState","__FieldVisitor","__Visitor"]};

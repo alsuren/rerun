@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["RangeError"],"fn":["f","get_or_create_texture","range","render_image","renderer_paint_callback","tensor_to_gpu","try_get_or_create_texture","viewport_resolution_in_pixels"],"mod":["tensor_to_gpu"],"struct":["ViewBuilderHandle"],"type":["ViewBuilderMap"]};

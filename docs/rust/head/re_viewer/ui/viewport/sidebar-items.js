@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIELDS"],"enum":["__Field"],"fn":["blueprint_row_with_buttons","dim_color","f","focus_tab","help_text_ui","space_view_ui","visibility_button_ui"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["TabViewer","Viewport","__FieldVisitor","__Visitor"],"type":["VisibilitySet"]};

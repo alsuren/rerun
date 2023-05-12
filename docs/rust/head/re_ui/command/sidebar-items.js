@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Command"],"fn":["cmd","cmd_shift","ctrl_shift","key"],"struct":["CommandIter"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DISCLAIMER","FIELDS","SALT","VARIANTS"],"enum":["AnalyticsError","EventKind","Property","__Field"],"mod":["cli","config_native","pipeline_native","sink_native"],"static":["CALLSITE","META"],"struct":["Analytics","Event","__DeserializeWith","__FieldVisitor","__SerializeWith","__Visitor"]};

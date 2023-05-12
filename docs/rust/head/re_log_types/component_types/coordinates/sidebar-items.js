@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIELDS","VARIANTS"],"enum":["Axis3","Handedness","Sign","ViewDir","__Field"],"fn":["rub"],"struct":["SignedAxis3","ViewCoordinates","__FieldVisitor","__Visitor"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIELDS","HELP_TEXT_3D"],"enum":["__Field"],"fn":["add_picking_ray","default_eye","f","find_camera","show_projections_from_2d_space","view_3d"],"static":["CALLSITE","META"],"struct":["EyeInterpolation","SpaceSpecs","View3DState","__FieldVisitor","__Visitor"]};

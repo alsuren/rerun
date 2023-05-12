@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["QueryError"],"fn":["get_component_with_instances","query_entity_with_primary","query_primary_with_history","range_entity_with_primary"],"mod":["dataframe_util","entity_view","query","range","util","visit"],"struct":["ComponentWithInstances","EntityView"],"type":["Result"]};

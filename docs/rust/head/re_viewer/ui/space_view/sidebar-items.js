@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIELDS"],"enum":["ScreenshotMode","__Field"],"fn":["f"],"mod":["item_ui"],"static":["CALLSITE","META"],"struct":["SpaceView","ViewState","__FieldVisitor","__Visitor"]};

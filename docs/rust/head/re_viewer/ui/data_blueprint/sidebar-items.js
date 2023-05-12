@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIELDS"],"enum":["__Field"],"fn":["f","path_to_group_name","project_tree"],"struct":["DataBlueprintGroup","DataBlueprintTree","DataBlueprints","__FieldVisitor","__Visitor"]};

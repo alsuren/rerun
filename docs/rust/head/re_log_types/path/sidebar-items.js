@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["VARIANTS"],"enum":["EntityPathPart","PathParseError","__Field"],"fn":["parse_entity_path"],"mod":["component_name","component_path","entity_path","entity_path_impl","parse_path"],"struct":["ComponentName","ComponentPath","EntityPath","EntityPathHash","EntityPathImpl","__FieldVisitor","__Visitor"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["VARIANTS","_IMPL_NUM_FromPrimitive_FOR_TimeType"],"enum":["TimeType","__Field"],"mod":["time_int","timeline"],"struct":["TimeInt","TimePoint","Timeline","TimelineName","__FieldVisitor","__Visitor"],"type":["K","V"]};
